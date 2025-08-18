@@ -1,5 +1,5 @@
 body {
-  background-image: url("https://github.com/awakenworlds/shared/blob/99dcaa031e47d4b400f910d47a1e3bfcee805945/bg.jpg");
+  background-image: url("bg.jpg");
   background-repeat: no-repeat;
   background-size: 100% 200%;
 }
@@ -79,4 +79,5 @@ footer {
   height: 16px;
   background-color: rgba(255, 255, 255, .9);
 }
+
 
